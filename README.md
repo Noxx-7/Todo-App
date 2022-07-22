@@ -1,5 +1,5 @@
 # ToDo App built with React Native
-![555a4705-9bfc-477c-9eeb-b4eab2bff464](https://user-images.githubusercontent.com/83027100/180376160-44b353c8-f145-4ac1-9f08-95758fca4783.jpg)
+![todo](https://user-images.githubusercontent.com/83027100/180377565-9cd4f654-b084-4ec3-b107-7ecd8519b2f7.jpg)
 
 ## Stack
 
